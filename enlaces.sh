@@ -12,5 +12,5 @@ ln -s ../web/web_widget_color ./
 # Para el SII:
 ln -s ../account-invoicing/account_invoice_refund_link ./
 ln -s ../account-financial-reporting/account_tax_balance ./
-ln -s ../queaue/queue_job
+ln -s ../queue/queue_job
 
