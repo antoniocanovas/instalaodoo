@@ -15,7 +15,7 @@ while IFS='' read -r line || [[ -n "$line" ]]; do
 
     git pull $line
     if [ $? -ne 0 ]; then
-	git clone --depth 1 --branch 10.0 --single-branch $line
+	git clone --depth 1 --branch 12.0 --single-branch $line
     fi
     
 done < $RUTA/repositorios.txt

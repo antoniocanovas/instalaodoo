@@ -1,4 +1,3 @@
-https://github.com/odoo/odoo.git
 https://github.com/OCA/account-financial-tools.git
 https://github.com/OCA/account-invoicing.git
 https://github.com/OCA/bank-statement-import.git
@@ -26,7 +25,7 @@ https://github.com/OCA/knowledge.git
 https://github.com/OCA/social.git
 https://github.com/OCA/e-commerce.git
 https://github.com/OCA/commission.git
-https://github.com/OCA/server-tools-git
+https://github.com/OCA/server-tools.git
 https://github.com/OCA/server-ux.git
 https://github.com/OCA/stock-logistics-warehouse.git
 https://github.com/OCA/stock-logistics-workflow.git
@@ -41,10 +40,4 @@ https://github.com/muk-it/muk_base.git
 https://github.com/muk-it/muk_web.git
 https://github.com/muk-it/muk_website.git
 https://github.com/emiprotechnologies/odoo-addons.git addons-emipro
-https://github.com/thinkopensolutions/tkobr-addons.git addons-tkobr
-https://github.com/onesteinbv/addons-onestein.git addons-onestein
-https://github.com/Whitecapetech/wct_addons.git addons-whitecapetech
-https://github.com/projectexpert/pmis.git addons-eficent-pims
-https://github.com/stephane-/odoo_addons.git addons-stepahene-gantt
-https://github.com/mohamedhagag/dvit-odoo8.git addons-mohamed
 https://github.com/akretion/odoo-usability.git addons-akretion
