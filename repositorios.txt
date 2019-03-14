@@ -44,4 +44,5 @@ https://github.com/muk-it/muk_website.git
 https://github.com/emiprotechnologies/odoo-addons.git addons-emipro
 https://github.com/akretion/odoo-usability.git addons-akretion
 https://github.com/CybroOdoo/CybroAddons.git
+https://github.com/Yenthe666/auto_backup.git
 

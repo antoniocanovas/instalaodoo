@@ -13,4 +13,5 @@ ln -s ../web/web_widget_color ./
 ln -s ../account-invoicing/account_invoice_refund_link ./
 ln -s ../account-financial-reporting/account_tax_balance ./
 ln -s ../queue/queue_job
-
+# Para copias:
+ln -s ../auto_backup/auto_backup ./
