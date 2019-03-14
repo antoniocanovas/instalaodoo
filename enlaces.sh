@@ -18,3 +18,5 @@ ln -s ../muk_web/muk_web_utils ./
 ln -s ../web/web_responsive ./
 ln -s ../muk_web/muk_web_theme ./
 ln -s ../muk_base/muk_utils ./
+# GRPD:
+ln -s ../data-protection/privacy ./

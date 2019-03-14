@@ -5,6 +5,7 @@ https://github.com/OCA/bank-statement-import.git
 https://github.com/OCA/bank-statement-reconcile
 https://github.com/OCA/bank-payment.git
 https://github.com/OCA/community-data-files.git
+https://github.com/OCA/data-protection.git
 https://github.com/OCA/department.git
 https://github.com/OCA/event.git
 https://github.com/OCA/l10n-spain.git
