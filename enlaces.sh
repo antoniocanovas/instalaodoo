@@ -18,5 +18,7 @@ ln -s ../muk_web/muk_web_utils ./
 ln -s ../web/web_responsive ./
 ln -s ../muk_web/muk_web_theme ./
 ln -s ../muk_base/muk_utils ./
+# Cheques:
+ln -s ../account-financial-tools/account_check_deposit/ ./
 # GRPD:
 ln -s ../data-protection/privacy ./
