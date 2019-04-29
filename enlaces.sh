@@ -6,7 +6,7 @@ ln -s ../server-ux/mass_editing ./
   # Wizard bloquear fechas:
 ln -s ../account-financial-tools/account_lock_date_update ./
   # Crear años fiscales:
-ln -s ../account-financial-tools/account_lock_date_update/ ./
+ln -s ../account-financial-tools/account_fiscal_year ./
 # Para el SII:
 ln -s ../account-invoicing/account_invoice_refund_link ./
 ln -s ../account-financial-reporting/account_tax_balance ./
