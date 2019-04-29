@@ -2,6 +2,11 @@ ln -s ../community-data-files/base_bank_from_iban ./
 ln -s ../server-ux/date_range ./
 ln -s ../CybroAddons/developer_mode ./
 ln -s ../server-ux/mass_editing ./
+# Contabilidad:
+  # Wizard bloquear fechas:
+ln -s ../account-financial-tools/account_lock_date_update ./
+  # Crear años fiscales:
+ln -s ../account-financial-tools/account_lock_date_update/ ./
 # Para el SII:
 ln -s ../account-invoicing/account_invoice_refund_link ./
 ln -s ../account-financial-reporting/account_tax_balance ./
