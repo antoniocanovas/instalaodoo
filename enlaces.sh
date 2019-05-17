@@ -3,6 +3,7 @@ ln -s ../server-ux/date_range ./
 ln -s ../CybroAddons/developer_mode ./
 ln -s ../server-ux/mass_editing ./
 # Contabilidad:
+ln -s ../account-financial-tools/account_chart_update/ ./
   # Wizard bloquear fechas:
 ln -s ../account-financial-tools/account_lock_date_update ./
   # Crear años fiscales:
