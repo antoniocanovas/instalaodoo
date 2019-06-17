@@ -24,6 +24,7 @@ ln -s ../muk_web/muk_web_utils ./
 ln -s ../web/web_responsive ./
 ln -s ../muk_web/muk_web_theme ./
 ln -s ../muk_base/muk_utils ./
+ln -s ../muk_base/muk_autovacuum/ ./
 # Cheques y otros contables:
 ln -s ../account-financial-tools/account_check_deposit/ ./
 ln -s ../account-financial-tools/account_renumber/ ./
