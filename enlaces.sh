@@ -5,6 +5,7 @@ ln -s ../server-ux/mass_editing ./
 # Contabilidad:
 ln -s ../account-financial-tools/account_chart_update/ ./
 ln -s ../account-financial-reporting/account_financial_report/ ./
+ln -s ../account-financial-tools/account_asset_management/ ./
   # Wizard bloquear fechas:
 ln -s ../account-financial-tools/account_lock_date_update ./
   # Crear años fiscales:
