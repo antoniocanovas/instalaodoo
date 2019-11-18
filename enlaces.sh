@@ -37,5 +37,5 @@ ln -s ../data-protection/privacy ./
 # MULTICOMPANY:
 ln -s ../multi-company/base_multi_company ./
 ln -s ../multi-company/partner_multi_company ./
-ln -s ../multi-company/account_multicompany_ease_creation ./
+ln -s ../multi-company/account_multicompany_easy_creation ./
 ln -s ../multi-company/res_company_active ./
