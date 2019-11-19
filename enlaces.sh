@@ -39,3 +39,6 @@ ln -s ../multi-company/base_multi_company ./
 ln -s ../multi-company/partner_multi_company ./
 ln -s ../multi-company/account_multicompany_easy_creation ./
 ln -s ../multi-company/res_company_active ./
+# Otros varios:
+ln -s ../social/mail_debrand ./
+
