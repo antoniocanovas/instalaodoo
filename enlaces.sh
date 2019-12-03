@@ -41,4 +41,4 @@ ln -s ../multi-company/account_multicompany_easy_creation ./
 ln -s ../multi-company/res_company_active ./
 # Otros varios:
 ln -s ../social/mail_debrand ./
-
+ln -s ../addons-ic/user_manager_permission_limit ./
