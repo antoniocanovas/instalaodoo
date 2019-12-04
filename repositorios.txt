@@ -48,3 +48,4 @@ https://github.com/CybroOdoo/CybroAddons.git addons-cybro
 https://github.com/Yenthe666/auto_backup.git
 https://github.com/Openworx/odoo-addons.git addons-openworx
 https://github.com/odoomates/odooapps.git addons-mates
+https://github.com/antoniocanovas/addons-ic.git
