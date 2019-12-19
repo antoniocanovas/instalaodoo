@@ -42,3 +42,5 @@ ln -s ../multi-company/res_company_active ./
 # Otros varios:
 ln -s ../social/mail_debrand ./
 ln -s ../addons-ic/user_manager_permission_limit ./
+# Para asesorías:
+ln -s ../addons-ic/odoo_sso_client ./
