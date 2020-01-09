@@ -44,3 +44,10 @@ ln -s ../social/mail_debrand ./
 ln -s ../addons-ic/user_manager_permission_limit ./
 # Para asesorías:
 ln -s ../addons-ic/odoo_sso_client ./
+# SEPA:
+ln -s ../bank-payment/account_banking_mandate ./
+ln -s ../bank-payment/account_banking_sepa_direct_debit ./
+ln -s ../bank-payment/account_banking_pain_base ./
+ln -s ../bank-payment/account_banking_mandate ./
+ln -s ../bank-payment/account_payment_order ./
+ln -s ../bank-payment/account_payment_mode ./
