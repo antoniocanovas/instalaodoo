@@ -51,3 +51,5 @@ ln -s ../bank-payment/account_banking_pain_base ./
 ln -s ../bank-payment/account_banking_mandate ./
 ln -s ../bank-payment/account_payment_order ./
 ln -s ../bank-payment/account_payment_mode ./
+ln -s ../bank-payment/account_payment_partner ./
+
