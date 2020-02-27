@@ -23,7 +23,7 @@ ln -s ../mis-builder/mis_builder_budget/ ./
 ln -s ../mis-builder/mis_builder ./
 ln -s ../reporting-engine/report_xlsx ./
 ln -s ../web/web_widget_color ./
-# Bakcend:
+# Backend:
 ln -s ../muk_web/muk_web_utils ./
 ln -s ../web/web_responsive ./
 ln -s ../muk_web/muk_web_theme ./
@@ -36,7 +36,6 @@ ln -s ../account-financial-tools/account_renumber/ ./
 ln -s ../data-protection/privacy ./
 # MULTICOMPANY:
 ln -s ../multi-company/base_multi_company ./
-ln -s ../multi-company/partner_multi_company ./
 ln -s ../multi-company/account_multicompany_easy_creation ./
 ln -s ../multi-company/res_company_active ./
 # Otros varios:
@@ -52,4 +51,5 @@ ln -s ../bank-payment/account_banking_mandate ./
 ln -s ../bank-payment/account_payment_order ./
 ln -s ../bank-payment/account_payment_mode ./
 ln -s ../bank-payment/account_payment_partner ./
-
+# CONTRATOS de clientes y proveedores:
+ln -s ../contract/contract ./
