@@ -18,6 +18,9 @@ ln -s ../account-financial-reporting/account_tax_balance ./
 ln -s ../queue/queue_job
 # Para copias:
 ln -s ../auto_backup/auto_backup ./
+# Para bancos:
+ln -s ../bank-statement-import/account_bank_statement_import_txt_xlsx/
+ln -s ../server-ux/multi_step_wizard/ ./
 # Para informes mis:
 ln -s ../mis-builder/mis_builder_budget/ ./
 ln -s ../mis-builder/mis_builder ./
