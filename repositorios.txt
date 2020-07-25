@@ -1,4 +1,5 @@
-https://github.com/OCA/partner-contact.git
+https://github.com/OCA/account-analytic.git
+https://github.com/OCA/account-closing.git
 https://github.com/OCA/account-financial-tools.git
 https://github.com/OCA/account-financial-reporting.git
 https://github.com/OCA/account-invoicing.git
@@ -6,47 +7,47 @@ https://github.com/OCA/bank-statement-import.git
 https://github.com/OCA/bank-statement-reconcile
 https://github.com/OCA/bank-payment.git
 https://github.com/OCA/community-data-files.git
+https://github.com/OCA/commission.git
+https://github.com/OCA/contract.git
+https://github.com/OCA/crm.git
 https://github.com/OCA/data-protection.git
 https://github.com/OCA/department.git
+https://github.com/OCA/e-commerce.git
 https://github.com/OCA/event.git
-https://github.com/OCA/l10n-spain.git
-https://github.com/OCA/mis-builder.git
-https://github.com/OCA/reporting-engine.git
-https://github.com/OCA/purchase-workflow.git
-https://github.com/OCA/queue.git
-https://github.com/OCA/sale-workflow.git
-https://github.com/OCA/account-closing.git
-https://github.com/OCA/web.git
-https://github.com/OCA/management-system.git
-https://github.com/OCA/website.git
-https://github.com/OCA/crm.git
-https://github.com/OCA/contract.git
 https://github.com/OCA/hr.git
 https://github.com/OCA/hr-timesheet.git
-https://github.com/OCA/pos.git
-https://github.com/OCA/account-analytic.git
 https://github.com/OCA/knowledge.git
-https://github.com/OCA/social.git
-https://github.com/OCA/e-commerce.git
-https://github.com/OCA/commission.git
+https://github.com/OCA/l10n-spain.git
+https://github.com/OCA/management-system.git
+https://github.com/OCA/margin-analysis.git
+https://github.com/OCA/mis-builder.git
+https://github.com/OCA/multi-company.git
+https://github.com/OCA/partner-contact.git
+https://github.com/OCA/pos.git
+https://github.com/OCA/product-attribute.git
+https://github.com/OCA/project-service.git
+https://github.com/OCA/purchase-workflow.git
+https://github.com/OCA/queue.git
+https://github.com/OCA/reporting-engine.git
+https://github.com/OCA/rma.git
+https://github.com/OCA/sale-workflow.git
+https://github.com/OCA/server-auth.git
 https://github.com/OCA/server-tools.git
 https://github.com/OCA/server-ux.git
+https://github.com/OCA/social.git
+https://github.com/OCA/stock-logistics-barcode.git
+https://github.com/OCA/stock-logistics-transport.git
 https://github.com/OCA/stock-logistics-warehouse.git
 https://github.com/OCA/stock-logistics-workflow.git
-https://github.com/OCA/product-attribute.git
-https://github.com/OCA/rma.git
-https://github.com/OCA/margin-analysis.git
-https://github.com/OCA/multi-company.git
-https://github.com/OCA/stock-logistics-transport.git
-https://github.com/OCA/stock-logistics-barcode.git
-https://github.com/OCA/project-service.git
-https://github.com/muk-it/muk_base.git
-https://github.com/muk-it/muk_web.git
-https://github.com/muk-it/muk_website.git
+https://github.com/OCA/web.git
+https://github.com/OCA/website.git
+https://github.com/antoniocanovas/addons-ic.git
 https://github.com/emiprotechnologies/odoo-addons.git addons-emipro
 https://github.com/akretion/odoo-usability.git addons-akretion
 https://github.com/CybroOdoo/CybroAddons.git addons-cybro
-https://github.com/Yenthe666/auto_backup.git
-https://github.com/Openworx/odoo-addons.git addons-openworx
+https://github.com/muk-it/muk_base.git
+https://github.com/muk-it/muk_web.git
+https://github.com/muk-it/muk_website.git
 https://github.com/odoomates/odooapps.git addons-mates
-https://github.com/antoniocanovas/addons-ic.git
+https://github.com/Openworx/odoo-addons.git addons-openworx
+https://github.com/Yenthe666/auto_backup.git
