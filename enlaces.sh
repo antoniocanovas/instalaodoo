@@ -4,6 +4,7 @@ ln -s ../community-data-files/base_bank_from_iban ./
 ln -s ../server-ux/date_range ./
 ln -s ../addons-cybro/developer_mode ./
 ln -s ../server-ux/mass_editing ./
+ln -s ../server-ux/mass_operation_abstract/ ./
 ln -s ../server-auth/password_security ./
 ln -s ../server-auth/auth_admin_passkey ./
 # Contabilidad:
