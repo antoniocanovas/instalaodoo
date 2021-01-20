@@ -1,1 +1,1 @@
-chown odoo:odoo * -R
+chown odoo:odoo /opt/odoo -R
