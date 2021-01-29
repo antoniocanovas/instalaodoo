@@ -11,7 +11,7 @@ ufw allow from 103.31.4.0/22
 ufw allow from 141.101.64.0/18
 ufw allow from 108.162.192.0/18
 ufw allow from 190.93.240.0/20
-ufw allow from 188.114.96.0/20
+ufw allow from 188.114.0.0/16
 ufw allow from 197.234.240.0/22
 ufw allow from 198.41.128.0/17
 ufw allow from 162.158.0.0/15
