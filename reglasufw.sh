@@ -15,7 +15,8 @@ ufw allow from 188.114.0.0/16
 ufw allow from 197.234.240.0/22
 ufw allow from 198.41.128.0/17
 ufw allow from 162.158.0.0/15
-ufw allow from 104.16.0.0/12
+ufw allow from 104.16.0.0/13
+ufw allow from 104.24.0.0/14
 ufw allow from 172.64.0.0/13
 ufw allow from 131.0.72.0/22
 ufw allow from 2400:cb00::/32
