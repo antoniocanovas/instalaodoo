@@ -50,6 +50,7 @@ cd $INSTAL_BASE
 for dir in ./* ; do
     if [ -d $dir ]; then
 	cd $dir;
+	echo $dir
 	git pull origin 12.0
 	cd ..
     fi
