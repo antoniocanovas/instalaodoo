@@ -20,7 +20,7 @@ ln -s ../account-invoicing/account_invoice_refund_link ./
 ln -s ../account-financial-reporting/account_tax_balance ./
 ln -s ../queue/queue_job
 # Para copias:
-ln -s ../auto_backup/auto_backup ./
+ln -s ../server_tools/auto_backup ./
 # Para bancos:
 ln -s ../bank-statement-import/account_bank_statement_import_txt_xlsx/
 ln -s ../web/web_widget_dropdown_dynamic ./
