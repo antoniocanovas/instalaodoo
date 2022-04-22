@@ -5,12 +5,6 @@ if [ "$(id -u)" != "0" ]; then
    exit 1
 fi
 
-source config.sh
-
-RUTA=`pwd`
-
-cd $INSTAL_BASE
-
 while IFS='' read -r line || [[ -n "$line" ]]; do
 
     git pull $line
@@ -18,6 +12,4 @@ while IFS='' read -r line || [[ -n "$line" ]]; do
 	git clone --depth 1 --branch 12.0 --single-branch $line
     fi
     
-done < $RUTA/repositorios.txt
-
-$RUTA
+done < /root/instalaodoo/repositorios.txt
