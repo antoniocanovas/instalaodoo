@@ -5,7 +5,7 @@ if [ "$(id -u)" != "0" ]; then
    exit 1
 fi
 
-cd /opt
+cd /opt/odoo
 
 while IFS='' read -r line || [[ -n "$line" ]]; do
 
