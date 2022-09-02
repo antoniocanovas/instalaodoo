@@ -1,5 +1,7 @@
-mkdir /opt/odoo/other-addons
-cd /opt/odoo/other-addons
+#!/bin/bash
+
+RUTA=`pwd`
+cd $RUTA/other-addons
 ln -s ../community-data-files/base_bank_from_iban ./
 ln -s ../server-ux/date_range ./
 ln -s ../addons-cybro/developer_mode ./
@@ -60,3 +62,17 @@ ln -s ../bank-payment/account_payment_mode ./
 ln -s ../bank-payment/account_payment_partner ./
 # CONTRATOS de clientes y proveedores:
 ln -s ../contract/contract ./
+#Dependencias 
+ln -s ../account-fiscal-rules/account_fiscal_position_partner_type/
+ln -s ../account-financial-tools/setup/account_move_template
+ln -s ../auto_backup/
+ln -s ../addons-ic/dbcopy_post_actions
+ln -s ../l10n-spain/setup/l10n_es_account_asset
+ln -s ../l10n-spain/l10n_es_aeat_mod303_oss
+ln -s ../account-fiscal-rules/l10n_eu_oss
+ln -s ../addons-ic/ocr_transactions
+ln -s ../addons-ic/partner_credentials
+ln -s ../queue/queue_job_cron/
+ln -s ../reporting-engine/report_xlsx_helper
+
+

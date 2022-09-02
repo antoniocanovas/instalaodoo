@@ -52,3 +52,4 @@ https://github.com/muk-it/muk_website.git
 https://github.com/odoomates/odooapps.git addons-mates
 https://github.com/Openworx/odoo-addons.git addons-openworx
 https://github.com/Yenthe666/auto_backup.git
+https://github.com/OCA/account-fiscal-rule

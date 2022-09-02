@@ -1,1 +1,3 @@
-chown odoo:odoo /opt/odoo -R
+RUTA=`pwd`
+
+chown odoo:odoo $RUTA -R

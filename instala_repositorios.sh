@@ -5,13 +5,17 @@ if [ "$(id -u)" != "0" ]; then
    exit 1
 fi
 
-cd /opt/odoo
+RUTA=`pwd`
+cd $RUTA
+
+echo "Que Version Quieres Instalar (12.0/13.0/14.0/15.0)??" 
+read version
 
 while IFS='' read -r line || [[ -n "$line" ]]; do
 
     git pull $line
     if [ $? -ne 0 ]; then
-	git clone --depth 1 --branch 12.0 --single-branch $line
+	git clone --depth 1 --branch $version --single-branch $line
     fi
     
 done < /root/instalaodoo/repositorios.txt
