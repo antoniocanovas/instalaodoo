@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ "$(id -u)" != "0" ]; then
-   echo "La instalación debe hacerse como root" 1>&2
+   echo "La instalación debe hacerse como root y tras haber copiado este fichero al directorio deseado como destino" 1>&2
    exit 1
 fi
 
