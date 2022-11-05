@@ -43,7 +43,6 @@ https://github.com/OCA/stock-logistics-workflow.git
 https://github.com/OCA/web.git
 https://github.com/OCA/website.git
 https://github.com/antoniocanovas/addons-ic.git
-https://github.com/emiprotechnologies/odoo-addons.git addons-emipro
 https://github.com/akretion/odoo-usability.git addons-akretion
 https://github.com/CybroOdoo/CybroAddons.git addons-cybro
 https://github.com/muk-it/muk_base.git
