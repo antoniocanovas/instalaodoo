@@ -51,7 +51,7 @@ for dir in ./* ; do
     if [ -d $dir ]; then
 	cd $dir;
 	echo $dir
-	git pull origin 12.0
+	git pull origin 16.0
 	cd ..
     fi
 done
