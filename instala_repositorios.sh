@@ -8,7 +8,7 @@ fi
 RUTA=`pwd`
 cd $RUTA
 
-echo "Que Version Quieres Instalar (12.0/13.0/14.0/15.0)??" 
+echo "Que Version Quieres Instalar (14.0/15.0/16.0)??" 
 read version
 
 while IFS='' read -r line || [[ -n "$line" ]]; do
