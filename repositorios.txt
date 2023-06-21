@@ -8,6 +8,7 @@ https://github.com/OCA/account-reconcile.git
 https://github.com/OCA/bank-statement-import.git
 https://github.com/OCA/bank-statement-reconcile
 https://github.com/OCA/bank-payment.git
+https://github.com/OCA/brand.git
 https://github.com/OCA/community-data-files.git
 https://github.com/OCA/commission.git
 https://github.com/OCA/contract.git
@@ -28,6 +29,7 @@ https://github.com/OCA/partner-contact.git
 https://github.com/OCA/pos.git
 https://github.com/OCA/product-attribute.git
 https://github.com/OCA/project-service.git
+https://github.com/OCA/product-attribute.git
 https://github.com/OCA/purchase-workflow.git
 https://github.com/OCA/queue.git
 https://github.com/OCA/reporting-engine.git
